@@ -2,7 +2,7 @@
 - 👀 I’m interested in processing 
 - 🌱 I’m currently learning processing
 - 💞️ I’m looking to collaborate on fun processing projects. 
-- 📫 How to reach me but.deaimnte@gmail.com
+- 📫 How to reach me but.deimante@gmail.com
 
 <!---
 deimantebut/deimantebut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
