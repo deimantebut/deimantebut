@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deimantebut
-- 👀 I’m interested in processing 
+- 👀 I’m interested in Typescript and writing code for Figma plug-ins.
 - 🌱 I’m currently learning processing
 - 💞️ I’m looking to collaborate on fun processing projects. 
 - 📫 How to reach me but.deimante@gmail.com
